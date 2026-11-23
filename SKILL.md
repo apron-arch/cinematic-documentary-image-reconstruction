@@ -1,5 +1,5 @@
 ---
-name: cinematic-documentary-reconstruction
+name: cinematic-documentary-image-reconstruction
 description: Transform a single reference image into a cinematic, photorealistic documentary-style image by reconstructing its lighting, composition, color science, camera language, atmosphere, visual storytelling, and photographic details. Use whenever a user provides an image and wants to recreate, reinterpret, enhance, or transform it into a high-end cinematic documentary photograph.
 ---
 
